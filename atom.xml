@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>nAn</title>
-  <subtitle>o subtitle</subtitle>
+  <subtitle>楠</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.n-a-n.com/"/>
